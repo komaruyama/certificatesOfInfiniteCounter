@@ -1,0 +1,25 @@
+F:{
+	Fnb -> Lbc, Lbe, Ltre;
+	Fnt -> Ltrc, Lt;
+}
+
+L:{
+	Lbc -> H11, H01;
+	Lt -> H00, H10;
+	Lbe -> He1;
+}
+
+HA:{
+	H11 -> Rb;
+	H01 -> Rt;
+	H00 -> Rt;
+	H10 -> Rt;
+	He1 -> Rb;
+}
+
+R:{
+	Rtr -> Fnb;
+	Rb -> Fnb;
+	Rt -> Fnt;
+}
+

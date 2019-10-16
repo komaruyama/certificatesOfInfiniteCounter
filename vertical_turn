@@ -1,0 +1,10 @@
+# upper -> folding
+
+L:{
+	e -> Ltre;
+	Ltre, Ltrc -> Ltrc;
+}
+
+R:{
+	Rtr -> Rtr;
+}

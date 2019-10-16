@@ -1,0 +1,2 @@
+label: p;
+dir: wwwwww;

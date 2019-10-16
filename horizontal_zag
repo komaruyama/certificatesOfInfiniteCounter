@@ -1,0 +1,18 @@
+F:{
+	F0 -> Lbc;
+	F1 -> Lbc;
+}
+
+L:{
+	Lbc -> Hn;
+	Ltre -> Hn;
+	Ltrc -> Hn;
+}
+
+HA:{
+	Hn -> Rtr, Rb;
+}
+
+R:{
+	Rb -> F0, F1;
+}

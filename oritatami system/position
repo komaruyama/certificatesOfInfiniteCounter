@@ -1,0 +1,8 @@
+#formed from (top) = (0,0);
+#zig
+Previous until = (1,0);
+Above until = (2, -1);
+
+
+#formed above from (bottom) = (0,0);
+Above previous until = (-1, 0);

@@ -1,0 +1,17 @@
+# upper -> folding
+HA:{
+	H00, H11 -> F0;
+	H01, H10, He1 -> F1;
+}
+
+L:{
+	Lt, Lbc, Lbe -> Lbc;
+}
+
+F:{
+	Fnb, Fnt -> Hn;
+}
+
+R:{
+	Rt, Rb -> Rb;
+}
