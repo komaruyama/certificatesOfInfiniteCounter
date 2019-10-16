@@ -1,12 +1,13 @@
 package figo
 
 import (
-	. "brick_automaton"
 	"fmt"
 	"math"
-	"oritatami"
 	"strconv"
-	"svgco"
+
+	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
 )
 
 func RunCheckAllGlider(filename string) {

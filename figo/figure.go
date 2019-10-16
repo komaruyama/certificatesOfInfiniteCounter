@@ -1,10 +1,11 @@
 package figo
 
 import (
-	. "brick_automaton"
-	"oritatami"
 	"strconv"
-	"svgco"
+
+	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
 )
 
 type OritatamiFigure struct {

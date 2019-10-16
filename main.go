@@ -3,15 +3,16 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"oritatami"
 	"os"
 	"path/filepath"
 	"strings"
-	"svgco"
 
-	. "brick_automaton"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
 
-	. "./figo"
+	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
+
+	. "github.com/komaruyama/certificatesOfInfiniteCounter/figo"
 )
 
 //skip sort

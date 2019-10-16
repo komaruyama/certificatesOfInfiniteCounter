@@ -1,9 +1,10 @@
 package figo
 
 import (
-	. "brick_automaton"
-	"oritatami"
-	"svgco"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
+	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
+
+	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
 )
 
 func NodeBglider() []BeadFigure {
