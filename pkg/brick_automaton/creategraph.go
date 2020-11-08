@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
+	"modules/pkg/oritatami"
+	"modules/pkg/svgco"
 )
 
 func CreateGraph(seed string, margin TreeMargin, color TreeColor) BrickGraphVE {

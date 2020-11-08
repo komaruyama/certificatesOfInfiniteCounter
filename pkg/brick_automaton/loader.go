@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
+	"modules/pkg/oritatami"
 )
 
 const (

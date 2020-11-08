@@ -7,12 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
-
-	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
-
-	. "github.com/komaruyama/certificatesOfInfiniteCounter/figo"
+	"modules/pkg/oritatami"
+	"modules/pkg/svgco"
+	. "modules/pkg/brick_automaton"
+	. "modules/figo"
 )
 
 //skip sort

@@ -5,9 +5,9 @@ import (
 	"math"
 	"strconv"
 
-	. "github.com/komaruyama/certificatesOfInfiniteCounter/pkg/brick_automaton"
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/oritatami"
-	"github.com/komaruyama/certificatesOfInfiniteCounter/pkg/svgco"
+	. "modules/pkg/brick_automaton"
+	"modules/pkg/oritatami"
+	"modules/pkg/svgco"
 )
 
 func RunCheckAllGlider(filename string) {
